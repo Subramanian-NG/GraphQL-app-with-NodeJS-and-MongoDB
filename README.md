@@ -1,0 +1,3 @@
+-Graph QL server App implementation with NodeJS backend and MongoDB database
+-Mongo DB CRUD operations implemented for GraphQL APIs
+-Apollo Client implemented in server side to query GraphQL APIs
